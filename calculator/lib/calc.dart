@@ -132,6 +132,7 @@ String _evaluateExpression(String input) {
                   _buildButton("0"),
                   _buildButton("00"),
                   _buildButton("+"),
+                  _buildButton("^2"),
                 ],
               ),
               Row(
